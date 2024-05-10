@@ -1,0 +1,18 @@
+.input-group-t {
+    display: flex;
+    flex-direction: row-reverse;
+}
+h1{
+    margin-bottom: 20px;
+}
+.input-text {
+    flex: 1;
+    margin-left: 8px;
+    /*font-size: 20px;*/
+    padding-left: 8px;
+    /*height: 30px;*/
+}
+.i-sub {
+    width: 15%;
+
+}
